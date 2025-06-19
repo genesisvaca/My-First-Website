@@ -10,7 +10,7 @@ Welcome to **Sweet Jean**, a static e-commerce website project developed as part
 
 ## 📸 Preview
 
-[Home Page Screenshot](assets/img/header.jpg)
+[Preview Screenshot](https://github.com/genesisvaca/My-First-Website/tree/main/Preview)
 
 ---
 
