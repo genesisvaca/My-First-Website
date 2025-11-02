@@ -12,7 +12,7 @@
 This repository contains the very first website I built on my own in **2024**. It was a personal learning project to practice **semantic HTML**, **handcrafted CSS** (with a pastel / denim-inspired style), and a bit of **vanilla JavaScript** for interactivity. The goal was to simulate a small online denim brand called **“Sweet Jean”** with several pages: home, collections, store sections, brand story, environmental commitment, login form and a working contact form.
 
 <p align="center">
-  <img src="preview/home.png" alt="Preview of Sweet Jean Home Page" width="85%">
+  <img src="MIWEB_UNIT1/Preview/home.png" alt="Preview of Sweet Jean Home Page" width="85%">
   <br>
   <em>🩵 A pastel, denim-inspired website — my very first web project (2024) 🩵</em>
 </p>
@@ -66,21 +66,21 @@ The whole project was built with **pure HTML, CSS and JS**, without build tools 
     <tr>
        <td align="center">
         <strong>👖 Women’s Store Page</strong><br>
-        <img src="MYWEB_UNIT1/preview/jeans.png" alt="Women’s jeans store preview" width="360">
+        <img src="MYWEB_UNIT1/Preview/jeans.png" alt="Women’s jeans store preview" width="360">
       </td>
       <td align="center">
         <strong>🏖️ Summer Collection Page</strong><br>
-        <img src="preview/summer_preview.png" alt="Summer collection preview" width="360">
+        <img src="MYWEB_UNIT1/Preview/summer_preview.png" alt="Summer collection preview" width="360">
       </td>
     </tr>
     <tr>
       <td align="center">
         <strong>🔐 Login (Bootstrap)</strong><br>
-        <img src="preview/login.png" alt="Login page preview" width="360">
+        <img src="MYWEB_UNIT1/Preview/login.png" alt="Login page preview" width="360">
       </td>
       <td align="center">
         <strong>💌 Contact Form</strong><br>
-        <img src="preview/contact.png" alt="Contact form preview" width="360">
+        <img src="MYWEB_UNIT1/Preview/contact.png" alt="Contact form preview" width="360">
       </td>
     </tr>
   </table>
@@ -89,7 +89,7 @@ The whole project was built with **pure HTML, CSS and JS**, without build tools 
 ## 🗂️ Project Structure
 
 ```
-MIWEB_UNIT1/
+Jeans-Web/
 ├── Preview/                    
 │   ├── contact.JPG             # Contact form preview
 │   ├── home.png                # Homepage preview
