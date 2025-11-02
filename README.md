@@ -11,8 +11,19 @@
 
 This repository contains the very first website I built on my own in **2024**. It was a personal learning project to practice **semantic HTML**, **handcrafted CSS** (with a pastel / denim-inspired style), and a bit of **vanilla JavaScript** for interactivity. The goal was to simulate a small online denim brand called **“Sweet Jean”** with several pages: home, collections, store sections, brand story, environmental commitment, login form and a working contact form.
 
-> Even though it was my first project ever, I wanted it to look like a real brand site ✨
+<p align="center">
+  <img src="preview/home.png" alt="Preview of Sweet Jean Home Page" width="85%">
+  <br>
+  <em>🩵 A pastel, denim-inspired website — my very first web project (2024) 🩵</em>
+</p>
 
+<p align="center">
+  <a href="https://github.com/genesisvaca/My-First-Website/tree/main/preview">
+    🔗 View All Previews
+  </a>
+</p>
+
+> *Even though it was my first project ever, I wanted it to look like a real brand site ✨*
 
 ## 📋 Overview
 
@@ -29,7 +40,6 @@ It includes:
 
 The whole project was built with **pure HTML, CSS and JS**, without build tools or frameworks, to understand how pages, assets and navigation work together.
 
-<br>
 
 ## ✨ Main Features
 
@@ -49,23 +59,18 @@ The whole project was built with **pure HTML, CSS and JS**, without build tools 
   
 - 🧪 **Learning-oriented code**: comments in JS explaining what each line does.
 
-<br>
-
 ## 🖼️ Preview Gallery
 
-> <img src="preview/home.png" alt="Home page preview" width="360">
-
 <div align="center">
-
   <table>
     <tr>
        <td align="center">
         <strong>👖 Women’s Store Page</strong><br>
-        <img src="preview/jeans.png" alt="Women’s jeans store preview" width="360">
+        <img src="MYWEB_UNIT1/preview/jeans.png" alt="Women’s jeans store preview" width="360">
       </td>
       <td align="center">
         <strong>🏖️ Summer Collection Page</strong><br>
-        <img src="preview/summer.png" alt="Summer collection preview" width="360">
+        <img src="preview/summer_preview.png" alt="Summer collection preview" width="360">
       </td>
     </tr>
     <tr>
@@ -79,29 +84,40 @@ The whole project was built with **pure HTML, CSS and JS**, without build tools 
       </td>
     </tr>
   </table>
-
 </div>
-
-<br>
 
 ## 🗂️ Project Structure
 
-```bash
-My-First-Website/
-├── index.html               # Main landing page (nav, hero, collections)
-├── contacto.html            # Contact form (Formspree)
-├── quienes-somos.html       # About us page with image carousel
-├── medioambiente.html       # Sustainability / commitment section
-├── tienda-mujer.html        # Store layout for women category
-├── log-in.html              # Login page styled with Bootstrap
-├── style.css                # Global styles (navbar, circles, store, footer...)
-├── script.js                # Search-bar demo + basic JS
-├── quienessomos.js          # Carousel logic for About page
-|── assets/
-|   └── img/...              # Brand images, header, products, logo
-|
-└── preview/...
 ```
+MIWEB_UNIT1/
+├── Preview/                    
+│   ├── contact.JPG             # Contact form preview
+│   ├── home.png                # Homepage preview
+│   ├── jeans.png               # Women's store preview
+│   ├── login.JPG               # Login page preview
+│   └── summer_preview.png      # Summer collection preview
+│
+├── assets/
+│   └── img/                    # Website images (header, logo, products, etc.)
+│
+├── contacto.html               # Contact form (Formspree integration)
+├── index.html                  # Landing page with hero and navigation
+├── log-in.html                 # Login page using Bootstrap
+├── medioambiente.html          # Sustainability / environmental commitment
+├── quienes-somos.html          # About page with image carousel
+├── quienessomos.js             # Carousel functionality (vanilla JS)
+├── script.js                   # JS for search bar and interactions
+├── style.css                   # Main stylesheet (layout, colors, typography)
+│
+├── tienda-hombre.html          # Men's collection
+├── tienda-mujer.html           # Women's collection
+├── tienda-summer.html          # Summer special collection
+├── tienda-urban.html           # Urban collection
+│
+├── .gitattributes              # Git configuration
+└── README.md                   # Project documentation (this file)
+```
+
 ### 🧠 What I Learned (2024)
 
 This project was **the very first website I ever coded** (2023). I built it before starting my formal studies, so the goal was to **understand the basics by doing**:
@@ -118,8 +134,7 @@ This project was **the very first website I ever coded** (2023). I built it befo
 
 - how to write small, readable JS for UI (the carousel + search alert)
 
-It’s not a perfect project — and that’s the point. It shows the origin of my web developer journey 💛
-
+*It’s not a perfect project — and that’s the point. It shows the origin of my web developer journey 💛*
 
 ## 🚀 How to Run It
 
