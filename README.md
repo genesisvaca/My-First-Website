@@ -14,7 +14,7 @@ This repository contains the very first website I built on my own in **2024**. I
 <p align="center">
   <img src="MIWEB_UNIT1/Preview/home.png" alt="Preview of Sweet Jean Home Page" width="85%">
   <br>
-  <em>🩵 A pastel, denim-inspired website — my very first web project (2024) 🩵</em>
+  <em>👖 A pastel, denim-inspired website — my very first web project (2023) 👖</em>
 </p>
 
 <p align="center">
@@ -61,30 +61,33 @@ The whole project was built with **pure HTML, CSS and JS**, without build tools 
 
 ## 🖼️ Preview Gallery
 
-<div align="center">
   <table>
-    <tr>
-       <td align="center">
-        <strong>👖 Women’s Store Page</strong><br>
-        <img src="MYWEB_UNIT1/Preview/jeans.png" alt="Women’s jeans store preview" width="360">
-      </td>
-      <td align="center">
-        <strong>🏖️ Summer Collection Page</strong><br>
-        <img src="MYWEB_UNIT1/Preview/summer_preview.png" alt="Summer collection preview" width="360">
-      </td>
-    </tr>
-    <tr>
+         </tr>
       <td align="center">
         <strong>🔐 Login (Bootstrap)</strong><br>
-        <img src="MYWEB_UNIT1/Preview/login.png" alt="Login page preview" width="360">
+        <img src="MIWEB_UNIT1/Preview/login.JPG" alt="Login page preview" width="1060">
       </td>
+     </tr>
+     </tr>
+       <td align="center">
+        <strong>👖 Women’s Store Page</strong><br>
+        <img src="MIWEB_UNIT1/Preview/jeans.png" alt="Women’s jeans store preview" width="1060">
+      </td>
+     </tr>
+     </tr>
+      <td align="center">
+        <strong>🏖️ Summer Collection Page</strong><br>
+        <img src="MIWEB_UNIT1/Preview/summer_preview.png" alt="Summer collection preview" width="1060">
+      </td>
+     </tr>
+     </tr>
       <td align="center">
         <strong>💌 Contact Form</strong><br>
-        <img src="MYWEB_UNIT1/Preview/contact.png" alt="Contact form preview" width="360">
+        <img src="MIWEB_UNIT1/Preview/contact.JPG" alt="Contact form preview" width="1060">
       </td>
     </tr>
   </table>
-</div>
+
 
 ## 🗂️ Project Structure
 
