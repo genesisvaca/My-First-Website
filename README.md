@@ -12,7 +12,7 @@
 This repository contains the very first website I built on my own in **2024**. It was a personal learning project to practice **semantic HTML**, **handcrafted CSS** (with a pastel / denim-inspired style), and a bit of **vanilla JavaScript** for interactivity. The goal was to simulate a small online denim brand called **“Sweet Jean”** with several pages: home, collections, store sections, brand story, environmental commitment, login form and a working contact form.
 
 <p align="center">
-  <img src="MIWEB_UNIT1/Preview/home.png" alt="Preview of Sweet Jean Home Page" width="85%">
+  <img src="MIWEB_UNIT1/Preview/home.png" alt="Preview of Sweet Jean Home Page" width="1060">
   <br>
   <em>👖 A pastel, denim-inspired website — my very first web project (2023) 👖</em>
 </p>
